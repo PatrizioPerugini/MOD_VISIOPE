@@ -5,3 +5,4 @@ Dataset and weights are stored in the following google drive folder: https://dri
 All the necessary parts are on the colab notebook. 
 Here are a couple of output:
 ![](/images/img1.png)
+![](/images/img2.png)
